@@ -1,0 +1,3 @@
+default:
+    extension: _Default%20Settings
+    output: schemes
